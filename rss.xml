@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Feminint1st]]></title>
         <description><![CDATA[Feminint1st]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/feminine1st/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 11:51:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Jul 2016 11:53:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/feminine1st/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Today’s article is one I’ve been trying to write for some time, as it comes in response to a question I was sent a while ago from a reader.</p>]]></description>
+            <link>https://thegrid.ai/feminine1st/todays-article-is-one-ive-been-trying-to-write-for-some-ti/index.html</link>
+            <guid isPermaLink="false">a16c6d4b-3459-4295-b771-b5f95dc6674d</guid>
+            <pubDate>Fri, 08 Jul 2016 11:53:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>I think by now we’ve established that when it comes to the masculine and the feminine there is no ‘better’.</p>]]></description>
-            <link>undefinedi-think-by-now-weve-established-that-when-it-comes-to-the-m/index.html</link>
+            <link>https://thegrid.ai/feminine1st/i-think-by-now-weve-established-that-when-it-comes-to-the-m/index.html</link>
             <guid isPermaLink="false">4491f990-6503-4142-bcd4-cd51221d424e</guid>
             <pubDate>Fri, 08 Jul 2016 11:51:23 GMT</pubDate>
         </item>
