@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Feminint1st]]></title>
+        <description><![CDATA[Feminint1st]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 08 Jul 2016 11:51:24 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I think by now we’ve established that when it comes to the masculine and the feminine there is no ‘better’.</p>]]></description>
+            <link>undefinedi-think-by-now-weve-established-that-when-it-comes-to-the-m/index.html</link>
+            <guid isPermaLink="false">4491f990-6503-4142-bcd4-cd51221d424e</guid>
+            <pubDate>Fri, 08 Jul 2016 11:51:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
